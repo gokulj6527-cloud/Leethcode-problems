@@ -1,7 +1,10 @@
 # Leethcode-problems
+<p align="center">
+  <img src="7f29d2a8-ce55-4b7e-ae7b-74c80bfc8515.png" width="300">
+</p>
+<div align="center">
 # ⚡ DSA Pattern Mastery
 
-<div align="center">
 
 ### 🧠 Learn the Pattern. Solve the Problem. Master DSA.
 
