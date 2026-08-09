@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="400">
+  <img src="7f29d2a8-ce55-4b7e-ae7b-74c80bfc8515 (1).png" width="400">
 </p>
 
 <h1 align="center">LeetCode Problems</h1>
