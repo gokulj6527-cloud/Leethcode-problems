@@ -1,21 +1,21 @@
-# Leethcode-problems
 <p align="center">
-  <img src="7f29d2a8-ce55-4b7e-ae7b-74c80bfc8515(1).png" width="300">
+  <img src="logo.png" width="400">
 </p>
-<div align="center">
-# ⚡ DSA Pattern Mastery
 
+<h1 align="center">LeetCode Problems</h1>
 
-### 🧠 Learn the Pattern. Solve the Problem. Master DSA.
+<p align="center">
+  🧠 Learn the Pattern. Solve the Problem. Master DSA.
+</p>
 
-**A structured collection of Data Structures & Algorithms patterns,
-implemented and practiced using Java.**
+<p align="center">
+  <b>A structured collection of Data Structures & Algorithms patterns,<br>
+  implemented and practiced using Java.</b>
+</p>
 
-<br>
-
-`Java` · `DSA` · `LeetCode` · `Problem Solving` · `Algorithms`
-
-</div>
+<p align="center">
+  <code>Java</code> · <code>DSA</code> · <code>LeetCode</code> · <code>Problem Solving</code> · <code>Algorithms</code>
+</p>
 
 ---
 
@@ -39,47 +39,47 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 > Used for pairs, comparisons, partitioning and removing duplicates.
 
-* Two Sum II
-* Valid Palindrome
-* Remove Duplicates from Sorted Array
-* Container With Most Water
-* Squares of a Sorted Array
-* Trapping Rain Water
-* 3Sum
-* 4Sum
+- Two Sum II
+- Valid Palindrome
+- Remove Duplicates from Sorted Array
+- Container With Most Water
+- Squares of a Sorted Array
+- Trapping Rain Water
+- 3Sum
+- 4Sum
 
 ### 🔹 Sliding Window
 
 > Fixed & variable window techniques for subarrays and substrings.
 
-* Maximum Sum of Subarray of Size K
-* Longest Substring Without Repeating Characters
-* Minimum Size Subarray Sum
-* Longest Repeating Character Replacement
-* Permutation in String
-* Find All Anagrams in a String
-* Fruit Into Baskets
+- Maximum Sum of Subarray of Size K
+- Longest Substring Without Repeating Characters
+- Minimum Size Subarray Sum
+- Longest Repeating Character Replacement
+- Permutation in String
+- Find All Anagrams in a String
+- Fruit Into Baskets
 
 ### 🔹 Prefix Sum
 
 > Cumulative sums for efficient range and subarray calculations.
 
-* Subarray Sum Equals K
-* Range Sum Query
-* Find Pivot Index
-* Continuous Subarray Sum
+- Subarray Sum Equals K
+- Range Sum Query
+- Find Pivot Index
+- Continuous Subarray Sum
 
 ### 🔹 Kadane's Algorithm
 
-* Maximum Subarray
-* Maximum Product Subarray
+- Maximum Subarray
+- Maximum Product Subarray
 
 ### 🔹 Cyclic Sort
 
-* Missing Number
-* Find All Numbers Disappeared in an Array
-* Find the Duplicate Number
-* First Missing Positive
+- Missing Number
+- Find All Numbers Disappeared in an Array
+- Find the Duplicate Number
+- First Missing Positive
 
 ---
 
@@ -87,16 +87,16 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 Frequency Map
 
-* Two Sum
-* Valid Anagram
-* Group Anagrams
-* Top K Frequent Elements
-* First Unique Character in a String
+- Two Sum
+- Valid Anagram
+- Group Anagrams
+- Top K Frequent Elements
+- First Unique Character in a String
 
 ### 🔹 Hash Set
 
-* Contains Duplicate
-* Longest Consecutive Sequence
+- Contains Duplicate
+- Longest Consecutive Sequence
 
 ---
 
@@ -104,20 +104,20 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 Fast & Slow Pointer
 
-* Linked List Cycle
-* Middle of the Linked List
-* Palindrome Linked List
+- Linked List Cycle
+- Middle of the Linked List
+- Palindrome Linked List
 
 ### 🔹 Reversal Pattern
 
-* Reverse Linked List
-* Reverse Nodes in K-Group
-* Swap Nodes in Pairs
+- Reverse Linked List
+- Reverse Nodes in K-Group
+- Swap Nodes in Pairs
 
 ### 🔹 Merge Pattern
 
-* Merge Two Sorted Lists
-* Merge K Sorted Lists
+- Merge Two Sorted Lists
+- Merge K Sorted Lists
 
 ---
 
@@ -125,15 +125,15 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 Monotonic Stack
 
-* Next Greater Element I
-* Daily Temperatures
-* Largest Rectangle in Histogram
-* Trapping Rain Water
+- Next Greater Element I
+- Daily Temperatures
+- Largest Rectangle in Histogram
+- Trapping Rain Water
 
 ### 🔹 Queue / Deque
 
-* Sliding Window Maximum
-* Design Circular Deque
+- Sliding Window Maximum
+- Design Circular Deque
 
 ---
 
@@ -141,12 +141,12 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 Classic Binary Search
 
-* Binary Search
+- Binary Search
 
 ### 🔹 Binary Search on Answer
 
-* Koko Eating Bananas
-* Split Array Largest Sum
+- Koko Eating Bananas
+- Split Array Largest Sum
 
 ---
 
@@ -154,13 +154,13 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 Pick / Not Pick
 
-* Subsets
-* Combinations
+- Subsets
+- Combinations
 
 ### 🔹 Backtracking
 
-* Permutations
-* N-Queens
+- Permutations
+- N-Queens
 
 ---
 
@@ -168,12 +168,12 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 DFS
 
-* Binary Tree Inorder Traversal
-* Maximum Depth of Binary Tree
+- Binary Tree Inorder Traversal
+- Maximum Depth of Binary Tree
 
 ### 🔹 BFS
 
-* Binary Tree Level Order Traversal
+- Binary Tree Level Order Traversal
 
 ---
 
@@ -181,28 +181,28 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 BFS & DFS
 
-* Number of Islands
-* Flood Fill
-* Max Area of Island
-* Rotting Oranges
+- Number of Islands
+- Flood Fill
+- Max Area of Island
+- Rotting Oranges
 
 ### 🔹 Topological Sort
 
-* Course Schedule
-* Course Schedule II
+- Course Schedule
+- Course Schedule II
 
 ### 🔹 Union Find
 
-* Redundant Connection
-* Number of Provinces
-* Accounts Merge
+- Redundant Connection
+- Number of Provinces
+- Accounts Merge
 
 ### 🔹 Dijkstra's Algorithm
 
-* Network Delay Time
-* Path With Minimum Effort
-* Cheapest Flights Within K Stops
-* Minimum Cost to Reach Destination in Time
+- Network Delay Time
+- Path With Minimum Effort
+- Cheapest Flights Within K Stops
+- Minimum Cost to Reach Destination in Time
 
 ---
 
@@ -210,8 +210,8 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 Top K Pattern
 
-* Kth Largest Element in an Array
-* Top K Frequent Elements
+- Kth Largest Element in an Array
+- Top K Frequent Elements
 
 ---
 
@@ -219,19 +219,19 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 0/1 Knapsack
 
-* Partition Equal Subset Sum
-* Target Sum
+- Partition Equal Subset Sum
+- Target Sum
 
 ### 🔹 Unbounded Knapsack
 
-* Coin Change
-* Coin Change II
+- Coin Change
+- Coin Change II
 
 ### 🔹 DP on Strings
 
-* Longest Common Subsequence
-* Edit Distance
-* Longest Palindromic Subsequence
+- Longest Common Subsequence
+- Edit Distance
+- Longest Palindromic Subsequence
 
 ---
 
@@ -239,24 +239,24 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 Interval & Scheduling
 
-* Non-overlapping Intervals
-* Merge Intervals
-* Meeting Rooms
-* Meeting Rooms II
-* Minimum Number of Arrows to Burst Balloons
+- Non-overlapping Intervals
+- Merge Intervals
+- Meeting Rooms
+- Meeting Rooms II
+- Minimum Number of Arrows to Burst Balloons
 
 ### 🔹 Jump / Reachability
 
-* Jump Game
-* Jump Game II
-* Gas Station
+- Jump Game
+- Jump Game II
+- Gas Station
 
 ### 🔹 Optimization
 
-* Assign Cookies
-* Boats to Save People
-* Task Scheduler
-* Reorganize String
+- Assign Cookies
+- Boats to Save People
+- Task Scheduler
+- Reorganize String
 
 ---
 
@@ -264,38 +264,34 @@ Every problem I solve here is an opportunity to understand a reusable technique 
 
 ### 🔹 XOR Based
 
-* Single Number
-* Single Number II
-* Single Number III
+- Single Number
+- Single Number II
+- Single Number III
 
 ### 🔹 Bit Masking
 
-* Subsets
-* Subsets II
-* Letter Case Permutation
+- Subsets
+- Subsets II
+- Letter Case Permutation
 
 ### 🔹 Bit Tricks
 
-* Counting Bits
-* Number of 1 Bits
-* Reverse Bits
-* Power of Two
-* Missing Number
+- Counting Bits
+- Number of 1 Bits
+- Reverse Bits
+- Power of Two
+- Missing Number
 
 ### 🔹 Advanced Bit Manipulation
 
-* Maximum XOR of Two Numbers in an Array
-* Bitwise AND of Numbers Range
+- Maximum XOR of Two Numbers in an Array
+- Bitwise AND of Numbers Range
 
 ---
 
 # 🛠️ Tech Stack
 
-<div align="center">
-
-`☕ Java`    `🧩 Data Structures`    `⚡ Algorithms`    `💻 LeetCode`
-
-</div>
+`☕ Java` · `🧩 Data Structures` · `⚡ Algorithms` · `💻 LeetCode`
 
 ---
 
@@ -315,7 +311,6 @@ Analyze Complexity
 Optimize
         ↓
 Repeat
-```
 
 ---
 
